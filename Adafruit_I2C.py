@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Origin: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code
 
-import smbus
+import smbus2
 
 # ===========================================================================
 # Adafruit_I2C Base Class
